@@ -1,0 +1,295 @@
+{
+    "recipes": [
+        {
+            "recipe_id": "BD001R01",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Spicy Beef Curry",
+            "ingredients": [
+                "1 lb beef, cubed",
+                "2 onions, chopped",
+                "3 cloves garlic, minced",
+                "1 tbsp ginger, grated",
+                "2 tomatoes, chopped",
+                "2 tbsp curry powder",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1/2 tsp cayenne pepper",
+                "1/2 tsp salt",
+                "1/2 tsp black pepper",
+                "2 tbsp vegetable oil",
+                "1 cup water",
+                "1 tbsp fresh cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add beef and cook until browned on all sides, about 5 minutes.\n3. Add tomatoes, curry powder, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 30-45 minutes, or until beef is tender.\n5. Serve with fresh cilantro and rice.",
+            "rating": 4.5,
+            "chef_id": "BD001"
+        },
+        {
+            "recipe_id": "BD001R02",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Bengali Fish Curry",
+            "ingredients": [
+                "1 lb fish fillets",
+                "2 onions, chopped",
+                "3 cloves garlic, minced",
+                "1 tbsp ginger, grated",
+                "2 tomatoes, chopped",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1/2 tsp cayenne pepper",
+                "1/2 tsp salt",
+                "1/2 tsp black pepper",
+                "2 tbsp vegetable oil",
+                "1 cup water",
+                "1 tbsp fresh cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add fish and cook until lightly browned on both sides, about 5 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, or until fish is cooked through.\n5. Serve with fresh cilantro and rice.",
+            "rating": 4.2,
+            "chef_id": "BD001"
+        },
+        {
+            "recipe_id": "BD001R03",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Chana Masala",
+            "ingredients": [
+                "2 cups chickpeas, cooked",
+                "2 onions, chopped",
+                "3 cloves garlic, minced",
+                "1 tbsp ginger, grated",
+                "2 tomatoes, chopped",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1/2 tsp cayenne pepper",
+                "1/2 tsp salt",
+                "1/2 tsp black pepper",
+                "2 tbsp vegetable oil",
+                "1 cup water",
+                "1 tbsp fresh cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add chickpeas and cook for 2-3 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for another 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, or until chickpeas are tender.\n5. Serve with fresh cilantro and rice.",
+            "rating": 4.8,
+            "chef_id": "BD001"
+        },
+        {
+            "recipe_id": "BD001R04",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Aloo Gobi",
+            "ingredients": [
+                "2 potatoes, diced",
+                "1 cauliflower, chopped",
+                "2 onions, chopped",
+                "3 cloves garlic, minced",
+                "1 tbsp ginger, grated",
+                "2 tomatoes, chopped",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1/2 tsp cayenne pepper",
+                "1/2 tsp salt",
+                "1/2 tsp black pepper",
+                "2 tbsp vegetable oil",
+                "1 cup water",
+                "1 tbsp fresh cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add potatoes and cauliflower and cook for 2-3 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for another 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, or until vegetables are tender.\n5. Serve with fresh cilantro and rice.",
+            "rating": 4.6,
+            "chef_id": "BD001"
+        },
+        {
+            "recipe_id": "BD001R05",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Chicken Korma",
+            "ingredients": [
+                "1 lb chicken, cut into pieces",
+                "2 onions, chopped",
+                "3 cloves garlic, minced",
+                "1 tbsp ginger, grated",
+                "2 tomatoes, chopped",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1/2 tsp cayenne pepper",
+                "1/2 tsp salt",
+                "1/2 tsp black pepper",
+                "2 tbsp vegetable oil",
+                "1 cup water",
+                "1 tbsp fresh cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 20-25 minutes, or until chicken is cooked through.\n5. Serve with fresh cilantro and rice.",
+            "rating": 4.9,
+            "chef_id": "BD001"
+        },
+        {
+            "recipe_id": "BD001R06",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Chapati",
+            "ingredients": [
+                "2 cups whole wheat flour",
+                "1/2 tsp salt",
+                "3/4 cup water"
+            ],
+            "cooking_method": "1. In a large bowl, mix together flour and salt. Add water and stir to form a dough.\n2. Knead the dough for 5-7 minutes until smooth and elastic. Cover and let rest for 10 minutes.\n3. Divide dough into 8-10 equal parts. Roll each part into a ball.\n4. Using a rolling pin, roll each ball into a circle, about 6 inches in diameter.\n5. Heat a non-stick pan over medium-high heat. Cook each chapati for 1-2 minutes on each side, until lightly browned and cooked through.\n6. Serve warm with your favorite curry.",
+            "rating": 4.5,
+            "chef_id": "BD001"
+        },
+        {
+            "recipe_id": "BD001R07",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Fish Curry",
+            "ingredients": [
+                "1 lb fish, cut into pieces",
+                "2 onions, chopped",
+                "3 cloves garlic, minced",
+                "1 tbsp ginger, grated",
+                "2 tomatoes, chopped",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1/2 tsp cayenne pepper",
+                "1/2 tsp salt",
+                "1/2 tsp black pepper",
+                "2 tbsp vegetable oil",
+                "1 cup water",
+                "1 tbsp fresh cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add fish and cook until lightly browned on all sides, about 5 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 20-25 minutes, or until fish is cooked through.\n5. Serve with fresh cilantro and rice.",
+            "rating": 4.7,
+            "chef_id": "BD001"
+        },
+        {
+            "recipe_id": "BD002R01",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Pitha",
+            "ingredients": [
+                "2 cups rice flour",
+                "1/2 cup grated coconut",
+                "1/4 cup sugar",
+                "1/4 tsp salt",
+                "1 1/2 cups water",
+                "2 tbsp vegetable oil"
+            ],
+            "cooking_method": "1. In a large bowl, mix together rice flour, grated coconut, sugar, and salt. Add water and stir to form a dough.\n2. Knead the dough for 5-7 minutes until smooth and elastic. Cover and let rest for 10 minutes.\n3. Divide dough into 16-18 equal parts. Roll each part into a ball.\n4. Flatten each ball into a circle, about 2-3 inches in diameter.\n5. Heat a non-stick pan over medium-high heat. Cook eachpitha for 1-2 minutes on each side, until lightly browned and cooked through.\n6. Serve warm with tea or coffee.",
+            "rating": 4.6,
+            "chef_id": "BD002"
+        },
+        {
+            "recipe_id": "BD002R02",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Beef Curry",
+            "ingredients": [
+                "1 lb beef, cut into pieces",
+                "2 onions, chopped",
+                "3 cloves garlic, minced",
+                "1 tbsp ginger, grated",
+                "2 tomatoes, chopped",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1/2 tsp cayenne pepper",
+                "1/2 tsp salt",
+                "1/2 tsp black pepper",
+                "2 tbsp vegetable oil",
+                "1 cup water",
+                "1 tbsp fresh cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add beef and cook until lightly browned on all sides, about 5 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 20-25 minutes, or until beef is cooked through.\n5. Serve with fresh cilantro and rice.",
+            "rating": 4.8,
+            "chef_id": "BD002"
+        },
+        {
+            "recipe_id": "BD002R03",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Bhaji",
+            "ingredients": [
+                "2 cups cauliflower, cut into florets",
+                "1 cup potatoes, peeled and diced",
+                "1/2 cup frozen peas",
+                "1 onion, chopped",
+                "3 cloves garlic, minced",
+                "1 tbsp ginger, grated",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1/2 tsp turmeric",
+                "1/2 tsp cayenne pepper",
+                "1/2 tsp salt",
+                "1/2 tsp black pepper",
+                "2 tbsp vegetable oil",
+                "1/2 cup water",
+                "1 tbsp fresh cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add cauliflower, potatoes, peas, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n3. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, or until vegetables are cooked through.\n4. Serve with fresh cilantro and rice.",
+            "rating": 4.2,
+            "chef_id": "BD002"
+        },
+        {
+            "recipe_id": "BD002R04",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Fish Fry",
+            "ingredients": [
+                "1 lb fish fillets",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1/2 tsp cayenne pepper",
+                "1/2 tsp salt",
+                "1/2 tsp black pepper",
+                "2 tbsp vegetable oil"
+            ],
+            "cooking_method": "1. In a small bowl, mix together cumin, coriander, turmeric, cayenne, salt, and black pepper.\n2. Rub spice mixture over both sides of fish fillets.\n3. In a large skillet, heat oil over medium-high heat. Add fish fillets and cook for 3-4 minutes on each side, or until cooked through.\n4. Serve with lemon wedges and green salad.",
+            "rating": 4.5,
+            "chef_id": "BD002"
+        },
+        {
+            "recipe_id": "BD002R05",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "recipe_name": "Chapati",
+            "ingredients": [
+                "2 cups whole wheat flour",
+                "1 tsp salt",
+                "1 tbsp vegetable oil",
+                "3/4 cup water"
+            ],
+            "cooking_method": "1. In a large bowl, mix together flour and salt. Add oil and mix until well combined.\n2. Gradually add water and knead until dough forms. Cover with a damp cloth and let rest for 30 minutes.\n3. Divide dough into 8 equal parts. Roll each part into a thin circle.\n4. In a large skillet, heat over medium-high heat. Add chapati and cook for 30-45 seconds on each side, or until lightly browned.\n5. Serve warm with curry or chutney.",
+            "rating": 4.4,
+            "chef_id": "BD002"
+        },
+        {
+            "recipe_id": "BD003R01",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "name": "Spicy Shrimp Curry",
+            "ingredients": [
+                "shrimp",
+                "coconut milk",
+                "onion",
+                "garlic",
+                "ginger",
+                "chili powder",
+                "turmeric",
+                "coriander"
+            ],
+            "cooking_method": "1. Heat oil in a large pan over medium-high heat. 2. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 3. Add chili powder, turmeric, and coriander and stir for 1 minute. 4. Add shrimp and cook for 3-4 minutes until pink. 5. Pour in coconut milk and simmer for 5 minutes until the sauce thickens. 6. Serve hot with rice.",
+            "rating": 4.5,
+            "chef_id": "BD003"
+        },
+        {
+            "recipe_id": "BD003R02",
+            "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+            "name": "Masoor Daal",
+            "ingredients": [
+                "red lentils",
+                "onion",
+                "garlic",
+                "ginger",
+                "tomato",
+                "cumin",
+                "coriander"
+            ],
+            "cooking_method": "1. Rinse the lentils in cold water and drain. 2. Heat oil in a large pot over medium heat. 3. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 4. Add cumin and coriander and stir for 1 minute. 5. Add the lentils and stir for 1-2 minutes until coated in the spices. 6. Add water and tomato and bring to a boil. 7. Reduce heat and simmer for 20-25 minutes until the lentils are tender. 8. Serve hot with rice or bread.",
+            "rating": 4.2,
+            "chef_id": "BD003"
+        }
+    ]
+}
