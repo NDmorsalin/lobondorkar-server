@@ -2,7 +2,7 @@
     {
         "chef_id": "BD001",
         "chef_name": "Ruhana Begum",
-        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "chef_picture": "https://preview.milingona.co/themes/bakery/catalog/wp-content/uploads/2017/12/team-1.jpg",
         "bio": "Ruhana Begum is a renowned chef in Bangladesh known for her expertise in traditional Bangladeshi cuisine.",
         "years_of_experience": 15,
         "num_of_recipes": 100,
@@ -16,7 +16,7 @@
     {
         "chef_id": "BD002",
         "chef_name": "Tareq Taylor",
-        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "chef_picture": "https://preview.milingona.co/themes/bakery/catalog/wp-content/uploads/2017/12/team-3.jpg",
         "bio": "Tareq Taylor is a Swedish-Bangladeshi chef known for his fusion cuisine and love of using fresh, local ingredients.",
         "years_of_experience": 20,
         "num_of_recipes": 150,
@@ -30,7 +30,7 @@
     {
         "chef_id": "BD003",
         "chef_name": "Nigella Lawson",
-        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "chef_picture": "https://preview.milingona.co/themes/bakery/catalog/wp-content/uploads/2017/12/team-2.jpg",
         "bio": "Nigella Lawson is a British chef and television personality who has a passion for both cooking and writing.",
         "years_of_experience": 25,
         "num_of_recipes": 200,
@@ -44,7 +44,7 @@
     {
         "chef_id": "BD004",
         "chef_name": "Munira Islam",
-        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "chef_picture": "https://preview.milingona.co/themes/bakery/catalog/wp-content/uploads/2017/12/team-4.jpg",
         "bio": "Munira Islam is a Bangladeshi-American chef who specializes in fusion cuisine that combines flavors from her heritage and her travels.",
         "years_of_experience": 10,
         "num_of_recipes": 75,
@@ -58,7 +58,7 @@
     {
         "chef_id": "BD005",
         "chef_name": "Zakir Hossain",
-        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "chef_picture": "https://preview.milingona.co/themes/bakery/catalog/wp-content/uploads/2017/12/team-3.jpg",
         "bio": "Zakir Hossain is a Bangladeshi chef who has made a name for himself in the culinary world with his innovative takes on traditional dishes.",
         "years_of_experience": 18,
         "num_of_recipes": 120,
@@ -72,7 +72,7 @@
     {
         "chef_id": "BD006",
         "chef_name": "Tareq Salam",
-        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "chef_picture": "https://preview.milingona.co/themes/bakery/catalog/wp-content/uploads/2017/12/team-1.jpg",
         "bio": "Tareq Salam is a Bangladeshi chef who has a passion for using seasonal and local ingredients to create delicious and healthy dishes.",
         "years_of_experience": 12,
         "num_of_recipes": 90,
@@ -86,7 +86,7 @@
     {
         "chef_id": "BD007",
         "chef_name": "Bobby Flay",
-        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "chef_picture": "https://preview.milingona.co/themes/bakery/catalog/wp-content/uploads/2017/12/team-2.jpg",
         "bio": "Bobby Flay is an American celebrity chef known for his innovative takes on southwestern and Mediterranean cuisine.",
         "years_of_experience": 30,
         "num_of_recipes": 250,
@@ -100,7 +100,7 @@
     {
         "chef_id": "BD008",
         "chef_name": "Mowgli Street Food",
-        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "chef_picture": "https://preview.milingona.co/themes/bakery/catalog/wp-content/uploads/2017/12/team-4.jpg",
         "bio": "Mowgli Street Food is a popular Bangladeshi food chain that serves traditional street food with a modern twist.",
         "years_of_experience": 5,
         "num_of_recipes": 50,

@@ -1,8 +1,11 @@
 const routes = require('express').Router();
-const { createChef, deleteChef, getChef, getChefs, updateChef } = require('../controllers/chefController')
+const { getChefRecipes, deleteChef, getChef, getChefs, updateChef } = require('../controllers/chefController')
 
 const { createRecipe, deleteRecipe, getRecipe, getRecipes, updateRecipe } = require('../controllers/recipeController')
 
+/* chef Recipes routes  */
+routes.route('/chefRecipes/:id')
+    .get(getChefRecipes) // get all recipes for a chef
 
 
 /* Recipes Routes */
