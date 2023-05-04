@@ -1,6 +1,7 @@
 const express = require('express');
 const dotenv = require('dotenv');
 const cors = require('cors');
+const router = require('./routers/routes');
 
 
 // initialize app
@@ -25,6 +26,7 @@ app.use(express.static('public'));
 
 // configure express to use routes
 // app.use(require('./routes'));
+app.use('/api',router)
 
 app.get('/', (req, res) => {
     res.send('Welcome to my chef-recipe-hunter-server');
