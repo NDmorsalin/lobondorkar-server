@@ -289,5 +289,585 @@
         "cooking_method": "1. Rinse the lentils in cold water and drain. 2. Heat oil in a large pot over medium heat. 3. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 4. Add cumin and coriander and stir for 1 minute. 5. Add the lentils and stir for 1-2 minutes until coated in the spices. 6. Add water and tomato and bring to a boil. 7. Reduce heat and simmer for 20-25 minutes until the lentils are tender. 8. Serve hot with rice or bread.",
         "rating": 4.2,
         "chef_id": "BD003"
+    },
+    {
+        "recipe_id": "BD004R02",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Beef Curry",
+        "ingredients": [
+            "1 lb beef, cut into pieces",
+            "2 onions, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "2 tomatoes, chopped",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "1 cup water",
+            "1 tbsp fresh cilantro, chopped"
+        ],
+        "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add beef and cook until lightly browned on all sides, about 5 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 20-25 minutes, or until beef is cooked through.\n5. Serve with fresh cilantro and rice.",
+        "rating": 4.8,
+        "chef_id": "BD004"
+    },
+    {
+        "recipe_id": "BD004R03",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Bhaji",
+        "ingredients": [
+            "2 cups cauliflower, cut into florets",
+            "1 cup potatoes, peeled and diced",
+            "1/2 cup frozen peas",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "1/2 cup water",
+            "1 tbsp fresh cilantro, chopped"
+        ],
+        "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add cauliflower, potatoes, peas, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n3. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, or until vegetables are cooked through.\n4. Serve with fresh cilantro and rice.",
+        "rating": 4.2,
+        "chef_id": "BD004"
+    },
+    {
+        "recipe_id": "BD004R04",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Fish Fry",
+        "ingredients": [
+            "1 lb fish fillets",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. In a small bowl, mix together cumin, coriander, turmeric, cayenne, salt, and black pepper.\n2. Rub spice mixture over both sides of fish fillets.\n3. In a large skillet, heat oil over medium-high heat. Add fish fillets and cook for 3-4 minutes on each side, or until cooked through.\n4. Serve with lemon wedges and green salad.",
+        "rating": 4.5,
+        "chef_id": "BD004"
+    },
+    {
+        "recipe_id": "BD004R05",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Chapati",
+        "ingredients": [
+            "2 cups whole wheat flour",
+            "1 tsp salt",
+            "1 tbsp vegetable oil",
+            "3/4 cup water"
+        ],
+        "cooking_method": "1. In a large bowl, mix together flour and salt. Add oil and mix until well combined.\n2. Gradually add water and knead until dough forms. Cover with a damp cloth and let rest for 30 minutes.\n3. Divide dough into 8 equal parts. Roll each part into a thin circle.\n4. In a large skillet, heat over medium-high heat. Add chapati and cook for 30-45 seconds on each side, or until lightly browned.\n5. Serve warm with curry or chutney.",
+        "rating": 4.4,
+        "chef_id": "BD004"
+    },
+    {
+        "recipe_id": "BD004R01",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "name": "Spicy Shrimp Curry",
+        "ingredients": [
+            "shrimp",
+            "coconut milk",
+            "onion",
+            "garlic",
+            "ginger",
+            "chili powder",
+            "turmeric",
+            "coriander"
+        ],
+        "cooking_method": "1. Heat oil in a large pan over medium-high heat. 2. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 3. Add chili powder, turmeric, and coriander and stir for 1 minute. 4. Add shrimp and cook for 3-4 minutes until pink. 5. Pour in coconut milk and simmer for 5 minutes until the sauce thickens. 6. Serve hot with rice.",
+        "rating": 4.5,
+        "chef_id": "BD004"
+    },
+    {
+        "recipe_id": "BD004R02",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "name": "Masoor Daal",
+        "ingredients": [
+            "red lentils",
+            "onion",
+            "garlic",
+            "ginger",
+            "tomato",
+            "cumin",
+            "coriander"
+        ],
+        "cooking_method": "1. Rinse the lentils in cold water and drain. 2. Heat oil in a large pot over medium heat. 3. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 4. Add cumin and coriander and stir for 1 minute. 5. Add the lentils and stir for 1-2 minutes until coated in the spices. 6. Add water and tomato and bring to a boil. 7. Reduce heat and simmer for 20-25 minutes until the lentils are tender. 8. Serve hot with rice or bread.",
+        "rating": 4.2,
+        "chef_id": "BD004"
+    },
+    {
+        "recipe_id": "BD005R02",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Beef Curry",
+        "ingredients": [
+            "1 lb beef, cut into pieces",
+            "2 onions, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "2 tomatoes, chopped",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "1 cup water",
+            "1 tbsp fresh cilantro, chopped"
+        ],
+        "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add beef and cook until lightly browned on all sides, about 5 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 20-25 minutes, or until beef is cooked through.\n5. Serve with fresh cilantro and rice.",
+        "rating": 4.8,
+        "chef_id": "BD005"
+    },
+    {
+        "recipe_id": "BD005R03",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Bhaji",
+        "ingredients": [
+            "2 cups cauliflower, cut into florets",
+            "1 cup potatoes, peeled and diced",
+            "1/2 cup frozen peas",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "1/2 cup water",
+            "1 tbsp fresh cilantro, chopped"
+        ],
+        "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add cauliflower, potatoes, peas, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n3. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, or until vegetables are cooked through.\n4. Serve with fresh cilantro and rice.",
+        "rating": 4.2,
+        "chef_id": "BD005"
+    },
+    {
+        "recipe_id": "BD005R04",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Fish Fry",
+        "ingredients": [
+            "1 lb fish fillets",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. In a small bowl, mix together cumin, coriander, turmeric, cayenne, salt, and black pepper.\n2. Rub spice mixture over both sides of fish fillets.\n3. In a large skillet, heat oil over medium-high heat. Add fish fillets and cook for 3-4 minutes on each side, or until cooked through.\n4. Serve with lemon wedges and green salad.",
+        "rating": 4.5,
+        "chef_id": "BD005"
+    },
+    {
+        "recipe_id": "BD005R05",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Chapati",
+        "ingredients": [
+            "2 cups whole wheat flour",
+            "1 tsp salt",
+            "1 tbsp vegetable oil",
+            "3/4 cup water"
+        ],
+        "cooking_method": "1. In a large bowl, mix together flour and salt. Add oil and mix until well combined.\n2. Gradually add water and knead until dough forms. Cover with a damp cloth and let rest for 30 minutes.\n3. Divide dough into 8 equal parts. Roll each part into a thin circle.\n4. In a large skillet, heat over medium-high heat. Add chapati and cook for 30-45 seconds on each side, or until lightly browned.\n5. Serve warm with curry or chutney.",
+        "rating": 4.4,
+        "chef_id": "BD005"
+    },
+    {
+        "recipe_id": "BD005R01",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "name": "Spicy Shrimp Curry",
+        "ingredients": [
+            "shrimp",
+            "coconut milk",
+            "onion",
+            "garlic",
+            "ginger",
+            "chili powder",
+            "turmeric",
+            "coriander"
+        ],
+        "cooking_method": "1. Heat oil in a large pan over medium-high heat. 2. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 3. Add chili powder, turmeric, and coriander and stir for 1 minute. 4. Add shrimp and cook for 3-4 minutes until pink. 5. Pour in coconut milk and simmer for 5 minutes until the sauce thickens. 6. Serve hot with rice.",
+        "rating": 4.5,
+        "chef_id": "BD005"
+    },
+    {
+        "recipe_id": "BD005R02",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "name": "Masoor Daal",
+        "ingredients": [
+            "red lentils",
+            "onion",
+            "garlic",
+            "ginger",
+            "tomato",
+            "cumin",
+            "coriander"
+        ],
+        "cooking_method": "1. Rinse the lentils in cold water and drain. 2. Heat oil in a large pot over medium heat. 3. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 4. Add cumin and coriander and stir for 1 minute. 5. Add the lentils and stir for 1-2 minutes until coated in the spices. 6. Add water and tomato and bring to a boil. 7. Reduce heat and simmer for 20-25 minutes until the lentils are tender. 8. Serve hot with rice or bread.",
+        "rating": 4.2,
+        "chef_id": "BD005"
+    },
+    {
+        "recipe_id": "BD006R02",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Beef Curry",
+        "ingredients": [
+            "1 lb beef, cut into pieces",
+            "2 onions, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "2 tomatoes, chopped",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "1 cup water",
+            "1 tbsp fresh cilantro, chopped"
+        ],
+        "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add beef and cook until lightly browned on all sides, about 5 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 20-25 minutes, or until beef is cooked through.\n5. Serve with fresh cilantro and rice.",
+        "rating": 4.8,
+        "chef_id": "BD006"
+    },
+    {
+        "recipe_id": "BD006R03",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Bhaji",
+        "ingredients": [
+            "2 cups cauliflower, cut into florets",
+            "1 cup potatoes, peeled and diced",
+            "1/2 cup frozen peas",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "1/2 cup water",
+            "1 tbsp fresh cilantro, chopped"
+        ],
+        "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add cauliflower, potatoes, peas, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n3. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, or until vegetables are cooked through.\n4. Serve with fresh cilantro and rice.",
+        "rating": 4.2,
+        "chef_id": "BD006"
+    },
+    {
+        "recipe_id": "BD006R04",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Fish Fry",
+        "ingredients": [
+            "1 lb fish fillets",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. In a small bowl, mix together cumin, coriander, turmeric, cayenne, salt, and black pepper.\n2. Rub spice mixture over both sides of fish fillets.\n3. In a large skillet, heat oil over medium-high heat. Add fish fillets and cook for 3-4 minutes on each side, or until cooked through.\n4. Serve with lemon wedges and green salad.",
+        "rating": 4.5,
+        "chef_id": "BD006"
+    },
+    {
+        "recipe_id": "BD006R05",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Chapati",
+        "ingredients": [
+            "2 cups whole wheat flour",
+            "1 tsp salt",
+            "1 tbsp vegetable oil",
+            "3/4 cup water"
+        ],
+        "cooking_method": "1. In a large bowl, mix together flour and salt. Add oil and mix until well combined.\n2. Gradually add water and knead until dough forms. Cover with a damp cloth and let rest for 30 minutes.\n3. Divide dough into 8 equal parts. Roll each part into a thin circle.\n4. In a large skillet, heat over medium-high heat. Add chapati and cook for 30-45 seconds on each side, or until lightly browned.\n5. Serve warm with curry or chutney.",
+        "rating": 4.4,
+        "chef_id": "BD006"
+    },
+    {
+        "recipe_id": "BD006R01",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "name": "Spicy Shrimp Curry",
+        "ingredients": [
+            "shrimp",
+            "coconut milk",
+            "onion",
+            "garlic",
+            "ginger",
+            "chili powder",
+            "turmeric",
+            "coriander"
+        ],
+        "cooking_method": "1. Heat oil in a large pan over medium-high heat. 2. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 3. Add chili powder, turmeric, and coriander and stir for 1 minute. 4. Add shrimp and cook for 3-4 minutes until pink. 5. Pour in coconut milk and simmer for 5 minutes until the sauce thickens. 6. Serve hot with rice.",
+        "rating": 4.5,
+        "chef_id": "BD006"
+    },
+    {
+        "recipe_id": "BD006R02",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "name": "Masoor Daal",
+        "ingredients": [
+            "red lentils",
+            "onion",
+            "garlic",
+            "ginger",
+            "tomato",
+            "cumin",
+            "coriander"
+        ],
+        "cooking_method": "1. Rinse the lentils in cold water and drain. 2. Heat oil in a large pot over medium heat. 3. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 4. Add cumin and coriander and stir for 1 minute. 5. Add the lentils and stir for 1-2 minutes until coated in the spices. 6. Add water and tomato and bring to a boil. 7. Reduce heat and simmer for 20-25 minutes until the lentils are tender. 8. Serve hot with rice or bread.",
+        "rating": 4.2,
+        "chef_id": "BD006"
+    },
+    {
+        "recipe_id": "BD007R02",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Beef Curry",
+        "ingredients": [
+            "1 lb beef, cut into pieces",
+            "2 onions, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "2 tomatoes, chopped",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "1 cup water",
+            "1 tbsp fresh cilantro, chopped"
+        ],
+        "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add beef and cook until lightly browned on all sides, about 5 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 20-25 minutes, or until beef is cooked through.\n5. Serve with fresh cilantro and rice.",
+        "rating": 4.8,
+        "chef_id": "BD007"
+    },
+    {
+        "recipe_id": "BD007R03",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Bhaji",
+        "ingredients": [
+            "2 cups cauliflower, cut into florets",
+            "1 cup potatoes, peeled and diced",
+            "1/2 cup frozen peas",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "1/2 cup water",
+            "1 tbsp fresh cilantro, chopped"
+        ],
+        "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add cauliflower, potatoes, peas, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n3. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, or until vegetables are cooked through.\n4. Serve with fresh cilantro and rice.",
+        "rating": 4.2,
+        "chef_id": "BD007"
+    },
+    {
+        "recipe_id": "BD007R04",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Fish Fry",
+        "ingredients": [
+            "1 lb fish fillets",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. In a small bowl, mix together cumin, coriander, turmeric, cayenne, salt, and black pepper.\n2. Rub spice mixture over both sides of fish fillets.\n3. In a large skillet, heat oil over medium-high heat. Add fish fillets and cook for 3-4 minutes on each side, or until cooked through.\n4. Serve with lemon wedges and green salad.",
+        "rating": 4.5,
+        "chef_id": "BD007"
+    },
+    {
+        "recipe_id": "BD007R05",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Chapati",
+        "ingredients": [
+            "2 cups whole wheat flour",
+            "1 tsp salt",
+            "1 tbsp vegetable oil",
+            "3/4 cup water"
+        ],
+        "cooking_method": "1. In a large bowl, mix together flour and salt. Add oil and mix until well combined.\n2. Gradually add water and knead until dough forms. Cover with a damp cloth and let rest for 30 minutes.\n3. Divide dough into 8 equal parts. Roll each part into a thin circle.\n4. In a large skillet, heat over medium-high heat. Add chapati and cook for 30-45 seconds on each side, or until lightly browned.\n5. Serve warm with curry or chutney.",
+        "rating": 4.4,
+        "chef_id": "BD007"
+    },
+    {
+        "recipe_id": "BD007R01",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "name": "Spicy Shrimp Curry",
+        "ingredients": [
+            "shrimp",
+            "coconut milk",
+            "onion",
+            "garlic",
+            "ginger",
+            "chili powder",
+            "turmeric",
+            "coriander"
+        ],
+        "cooking_method": "1. Heat oil in a large pan over medium-high heat. 2. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 3. Add chili powder, turmeric, and coriander and stir for 1 minute. 4. Add shrimp and cook for 3-4 minutes until pink. 5. Pour in coconut milk and simmer for 5 minutes until the sauce thickens. 6. Serve hot with rice.",
+        "rating": 4.5,
+        "chef_id": "BD007"
+    },
+    {
+        "recipe_id": "BD007R02",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "name": "Masoor Daal",
+        "ingredients": [
+            "red lentils",
+            "onion",
+            "garlic",
+            "ginger",
+            "tomato",
+            "cumin",
+            "coriander"
+        ],
+        "cooking_method": "1. Rinse the lentils in cold water and drain. 2. Heat oil in a large pot over medium heat. 3. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 4. Add cumin and coriander and stir for 1 minute. 5. Add the lentils and stir for 1-2 minutes until coated in the spices. 6. Add water and tomato and bring to a boil. 7. Reduce heat and simmer for 20-25 minutes until the lentils are tender. 8. Serve hot with rice or bread.",
+        "rating": 4.2,
+        "chef_id": "BD007"
+    },
+    {
+        "recipe_id": "BD008R02",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Beef Curry",
+        "ingredients": [
+            "1 lb beef, cut into pieces",
+            "2 onions, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "2 tomatoes, chopped",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "1 cup water",
+            "1 tbsp fresh cilantro, chopped"
+        ],
+        "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add beef and cook until lightly browned on all sides, about 5 minutes.\n3. Add tomatoes, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n4. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 20-25 minutes, or until beef is cooked through.\n5. Serve with fresh cilantro and rice.",
+        "rating": 4.8,
+        "chef_id": "BD008"
+    },
+    {
+        "recipe_id": "BD008R03",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Bhaji",
+        "ingredients": [
+            "2 cups cauliflower, cut into florets",
+            "1 cup potatoes, peeled and diced",
+            "1/2 cup frozen peas",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "1/2 cup water",
+            "1 tbsp fresh cilantro, chopped"
+        ],
+        "cooking_method": "1. In a large pot, heat oil over medium heat. Add onions and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute.\n2. Add cauliflower, potatoes, peas, cumin, coriander, turmeric, cayenne, salt, and black pepper. Stir to combine and cook for 2-3 minutes.\n3. Add water and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, or until vegetables are cooked through.\n4. Serve with fresh cilantro and rice.",
+        "rating": 4.2,
+        "chef_id": "BD008"
+    },
+    {
+        "recipe_id": "BD008R04",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Fish Fry",
+        "ingredients": [
+            "1 lb fish fillets",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1 tsp turmeric",
+            "1/2 tsp cayenne pepper",
+            "1/2 tsp salt",
+            "1/2 tsp black pepper",
+            "2 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. In a small bowl, mix together cumin, coriander, turmeric, cayenne, salt, and black pepper.\n2. Rub spice mixture over both sides of fish fillets.\n3. In a large skillet, heat oil over medium-high heat. Add fish fillets and cook for 3-4 minutes on each side, or until cooked through.\n4. Serve with lemon wedges and green salad.",
+        "rating": 4.5,
+        "chef_id": "BD008"
+    },
+    {
+        "recipe_id": "BD008R05",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "recipe_name": "Chapati",
+        "ingredients": [
+            "2 cups whole wheat flour",
+            "1 tsp salt",
+            "1 tbsp vegetable oil",
+            "3/4 cup water"
+        ],
+        "cooking_method": "1. In a large bowl, mix together flour and salt. Add oil and mix until well combined.\n2. Gradually add water and knead until dough forms. Cover with a damp cloth and let rest for 30 minutes.\n3. Divide dough into 8 equal parts. Roll each part into a thin circle.\n4. In a large skillet, heat over medium-high heat. Add chapati and cook for 30-45 seconds on each side, or until lightly browned.\n5. Serve warm with curry or chutney.",
+        "rating": 4.4,
+        "chef_id": "BD008"
+    },
+    {
+        "recipe_id": "BD008R01",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "name": "Spicy Shrimp Curry",
+        "ingredients": [
+            "shrimp",
+            "coconut milk",
+            "onion",
+            "garlic",
+            "ginger",
+            "chili powder",
+            "turmeric",
+            "coriander"
+        ],
+        "cooking_method": "1. Heat oil in a large pan over medium-high heat. 2. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 3. Add chili powder, turmeric, and coriander and stir for 1 minute. 4. Add shrimp and cook for 3-4 minutes until pink. 5. Pour in coconut milk and simmer for 5 minutes until the sauce thickens. 6. Serve hot with rice.",
+        "rating": 4.5,
+        "chef_id": "BD008"
+    },
+    {
+        "recipe_id": "BD008R02",
+        "recipe_img": "https://source.unsplash.com/random/800x600/?food",
+        "name": "Masoor Daal",
+        "ingredients": [
+            "red lentils",
+            "onion",
+            "garlic",
+            "ginger",
+            "tomato",
+            "cumin",
+            "coriander"
+        ],
+        "cooking_method": "1. Rinse the lentils in cold water and drain. 2. Heat oil in a large pot over medium heat. 3. Add onion, garlic, and ginger and sauté for 2-3 minutes until fragrant. 4. Add cumin and coriander and stir for 1 minute. 5. Add the lentils and stir for 1-2 minutes until coated in the spices. 6. Add water and tomato and bring to a boil. 7. Reduce heat and simmer for 20-25 minutes until the lentils are tender. 8. Serve hot with rice or bread.",
+        "rating": 4.2,
+        "chef_id": "BD008"
     }
 ]
