@@ -1,116 +1,114 @@
-{
-    "chefs": [
-        {
-            "chef_id": "BD001",
-            "chef_name": "Ruhana Begum",
-            "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
-            "bio": "Ruhana Begum is a renowned chef in Bangladesh known for her expertise in traditional Bangladeshi cuisine.",
-            "years_of_experience": 15,
-            "num_of_recipes": 100,
-            "likes": 500,
-            "country": "Bangladesh",
-            "location": {
-                "latitude": 23.8103,
-                "longitude": 90.4125
-            }
-        },
-        {
-            "chef_id": "BD002",
-            "chef_name": "Tareq Taylor",
-            "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
-            "bio": "Tareq Taylor is a Swedish-Bangladeshi chef known for his fusion cuisine and love of using fresh, local ingredients.",
-            "years_of_experience": 20,
-            "num_of_recipes": 150,
-            "likes": 800,
-            "country": "Bangladesh",
-            "location": {
-                "latitude": 24.3636,
-                "longitude": 88.6241
-            }
-        },
-        {
-            "chef_id": "BD003",
-            "chef_name": "Nigella Lawson",
-            "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
-            "bio": "Nigella Lawson is a British chef and television personality who has a passion for both cooking and writing.",
-            "years_of_experience": 25,
-            "num_of_recipes": 200,
-            "likes": 1200,
-            "country": "Bangladesh",
-            "location": {
-                "latitude": 24.9000,
-                "longitude": 91.8333
-            }
-        },
-        {
-            "chef_id": "BD004",
-            "chef_name": "Munira Islam",
-            "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
-            "bio": "Munira Islam is a Bangladeshi-American chef who specializes in fusion cuisine that combines flavors from her heritage and her travels.",
-            "years_of_experience": 10,
-            "num_of_recipes": 75,
-            "likes": 300,
-            "country": "Bangladesh",
-            "location": {
-                "latitude": 24.3708,
-                "longitude": 88.6022
-            }
-        },
-        {
-            "chef_id": "BD005",
-            "chef_name": "Zakir Hossain",
-            "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
-            "bio": "Zakir Hossain is a Bangladeshi chef who has made a name for himself in the culinary world with his innovative takes on traditional dishes.",
-            "years_of_experience": 18,
-            "num_of_recipes": 120,
-            "likes": 600,
-            "country": "Bangladesh",
-            "location": {
-                "latitude": 22.8456,
-                "longitude": 89.5403
-            }
-        },
-        {
-            "chef_id": "BD006",
-            "chef_name": "Tareq Salam",
-            "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
-            "bio": "Tareq Salam is a Bangladeshi chef who has a passion for using seasonal and local ingredients to create delicious and healthy dishes.",
-            "years_of_experience": 12,
-            "num_of_recipes": 90,
-            "likes": 400,
-            "country": "Bangladesh",
-            "location": {
-                "latitude": 24.7117,
-                "longitude": 90.4074
-            }
-        },
-        {
-            "chef_id": "BD007",
-            "chef_name": "Bobby Flay",
-            "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
-            "bio": "Bobby Flay is an American celebrity chef known for his innovative takes on southwestern and Mediterranean cuisine.",
-            "years_of_experience": 30,
-            "num_of_recipes": 250,
-            "likes": 1500,
-            "country": "Bangladesh",
-            "location": {
-                "latitude": 22.3300,
-                "longitude": 91.8000
-            }
-        },
-        {
-            "chef_id": "BD008",
-            "chef_name": "Mowgli Street Food",
-            "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
-            "bio": "Mowgli Street Food is a popular Bangladeshi food chain that serves traditional street food with a modern twist.",
-            "years_of_experience": 5,
-            "num_of_recipes": 50,
-            "likes": 200,
-            "country": "Bangladesh",
-            "location": {
-                "latitude": 23.6850,
-                "longitude": 90.3563
-            }
+[
+    {
+        "chef_id": "BD001",
+        "chef_name": "Ruhana Begum",
+        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "bio": "Ruhana Begum is a renowned chef in Bangladesh known for her expertise in traditional Bangladeshi cuisine.",
+        "years_of_experience": 15,
+        "num_of_recipes": 100,
+        "likes": 500,
+        "country": "Bangladesh",
+        "location": {
+            "latitude": 23.8103,
+            "longitude": 90.4125
         }
-    ]
-}
+    },
+    {
+        "chef_id": "BD002",
+        "chef_name": "Tareq Taylor",
+        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "bio": "Tareq Taylor is a Swedish-Bangladeshi chef known for his fusion cuisine and love of using fresh, local ingredients.",
+        "years_of_experience": 20,
+        "num_of_recipes": 150,
+        "likes": 800,
+        "country": "Bangladesh",
+        "location": {
+            "latitude": 24.3636,
+            "longitude": 88.6241
+        }
+    },
+    {
+        "chef_id": "BD003",
+        "chef_name": "Nigella Lawson",
+        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "bio": "Nigella Lawson is a British chef and television personality who has a passion for both cooking and writing.",
+        "years_of_experience": 25,
+        "num_of_recipes": 200,
+        "likes": 1200,
+        "country": "Bangladesh",
+        "location": {
+            "latitude": 24.9000,
+            "longitude": 91.8333
+        }
+    },
+    {
+        "chef_id": "BD004",
+        "chef_name": "Munira Islam",
+        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "bio": "Munira Islam is a Bangladeshi-American chef who specializes in fusion cuisine that combines flavors from her heritage and her travels.",
+        "years_of_experience": 10,
+        "num_of_recipes": 75,
+        "likes": 300,
+        "country": "Bangladesh",
+        "location": {
+            "latitude": 24.3708,
+            "longitude": 88.6022
+        }
+    },
+    {
+        "chef_id": "BD005",
+        "chef_name": "Zakir Hossain",
+        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "bio": "Zakir Hossain is a Bangladeshi chef who has made a name for himself in the culinary world with his innovative takes on traditional dishes.",
+        "years_of_experience": 18,
+        "num_of_recipes": 120,
+        "likes": 600,
+        "country": "Bangladesh",
+        "location": {
+            "latitude": 22.8456,
+            "longitude": 89.5403
+        }
+    },
+    {
+        "chef_id": "BD006",
+        "chef_name": "Tareq Salam",
+        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "bio": "Tareq Salam is a Bangladeshi chef who has a passion for using seasonal and local ingredients to create delicious and healthy dishes.",
+        "years_of_experience": 12,
+        "num_of_recipes": 90,
+        "likes": 400,
+        "country": "Bangladesh",
+        "location": {
+            "latitude": 24.7117,
+            "longitude": 90.4074
+        }
+    },
+    {
+        "chef_id": "BD007",
+        "chef_name": "Bobby Flay",
+        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "bio": "Bobby Flay is an American celebrity chef known for his innovative takes on southwestern and Mediterranean cuisine.",
+        "years_of_experience": 30,
+        "num_of_recipes": 250,
+        "likes": 1500,
+        "country": "Bangladesh",
+        "location": {
+            "latitude": 22.3300,
+            "longitude": 91.8000
+        }
+    },
+    {
+        "chef_id": "BD008",
+        "chef_name": "Mowgli Street Food",
+        "chef_picture": "https://source.unsplash.com/random/1200x800/?chef",
+        "bio": "Mowgli Street Food is a popular Bangladeshi food chain that serves traditional street food with a modern twist.",
+        "years_of_experience": 5,
+        "num_of_recipes": 50,
+        "likes": 200,
+        "country": "Bangladesh",
+        "location": {
+            "latitude": 23.6850,
+            "longitude": 90.3563
+        }
+    }
+]
